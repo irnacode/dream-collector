@@ -45,3 +45,19 @@ input {
   border-radius: 6px;
   border: 1px solid #ccc;
 }
+
+nav {
+  background-color: #00c73c;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+nav strong {
+  color: white;
+}
